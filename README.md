@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @jns-ki
-- 👀 I’m interested in 2D/3D design, low poly, pixel art, blender, unity, ...
-- 🌱 I’m currently working with unity, blender and aseprite.
+👋 Hi everybody 
+
+👀 I’m interested in 2D/3D design, low poly, pixel art, blender, unity, ... Aside from that, i enjoy doing sports :bicyclist: :weight_lifting: :mountain:
+
+🌱 For 2D/3D stuff i currently use unity, blender, aseprite and the good old MS Paint :smiley:
 
 <!---
 jns-ki/jns-ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
